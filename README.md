@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2><br>
 
-<img src="https://snipboard.io/aWBFOj.jpg" alt="project-screenshot" width="400" height="400/"><br><br>
+<img src="https://snipboard.io/aWBFOj.jpg" alt="project-screenshot" width="400"><br><br>
 
 <h2>🍰 Recommendations:</h2>
 
